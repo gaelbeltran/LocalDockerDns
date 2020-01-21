@@ -21,7 +21,7 @@ Create hosts file and edit it as you need
 (the content should be the same as you would setup on your /etc/hosts)
 * The ip should be your linux container IP, and not 127.0.0.1
 ```
-$ touch ./dnsmasq.hosts
+$ nano ./dnsmasq.hosts
 ```
 
 Execute setup file:
