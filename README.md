@@ -1,9 +1,9 @@
 # LocalDockerDns
+
 Setup of a Local DNS Service on a Docker Machine for ChromeOs
-----
+
 This repository is an adaptation from [programster/docker-dnsmasq](https://github.com/programster/docker-dnsmasq)
 to be used mainly on chromeOs devices.
----
 
 ### Requirements
 - Linux enabled [Setting up linux on ChromeOs](https://support.google.com/chromebook/answer/9145439?hl=en)
