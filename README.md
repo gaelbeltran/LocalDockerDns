@@ -7,7 +7,7 @@ to be used mainly on chromeOs devices.
 
 ### Requirements
 - Linux enabled [Setting up linux on ChromeOs](https://support.google.com/chromebook/answer/9145439?hl=en)
-- Docker Installed [Setting up docker](https://docs.docker.com/install/linux/docker-ce/debian/#install-using-the-repository)
+- Docker Installed [Setting up docker](https://docs.docker.com/install/linux/docker-ce/debian/#install-docker-engine---community-1)
 
 ### Before setting up
 Make sure that you don't have any application using port 53.
