@@ -53,12 +53,3 @@ To update the DNS servers preference:
 7. Under "Custom names servers", set the first one to be your linux IP and the following ones matching the order they were on step 6.
 
 It should work like this. If not, try wait a bit or open your browser in a anonymous tab.
-
-
-### Remarks
-To check your linux container ip, execute on terminal:
-```
-$ ip a
-```
-and search for the ip using Eth0
-
